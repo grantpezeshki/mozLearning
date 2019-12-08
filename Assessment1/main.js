@@ -46,13 +46,6 @@ function result() {
     //console.log('hi, you redid out the inserts')
 }
 
-function reset() {
-
-    insertx = null;
-    inserty = null;
-    insertz = null; 
-    console.log('hi, you nulled out the inserts')
-}
 
 /*  
 
